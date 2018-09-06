@@ -10,5 +10,7 @@ Seemingly the only change is in a single byte:
 
 Apply the patch to a clean, extended NTSC version Super Mario 64 rom. Patch was made with:
 > Super Mario 64 (U) [!].z64
+
 > Size: 8,338,608
+
 > CRC32: 3CE60709
