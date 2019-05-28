@@ -18,6 +18,9 @@ Size: 8,338,608
 CRC32: 3CE60709
 ```
 
+## Mario64EnhancedLevelSelectPatch.ppf
+
+My enhanced original patch that both enables the debug level select screen in Super Mario 64 and changes the stage titles. The default titles either reference the Japanese names or have graphical glitches. This for the most part fixes that.
+
 **Notes from The Cutting Floor wiki on Mario 64 debug content:**
 > *When a level is selected, Mario will automatically be sent to the first Star, bypassing the Star selection screen. Exiting a course via Star collection, death, or the pause menu will bring you back to the level select screen. Attempting to access one of the removed entries causes the game to reset.*
-
