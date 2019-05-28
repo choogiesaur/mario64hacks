@@ -1,0 +1,39 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl _7
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.545098 0.498039
+Ks 0.330000 0.330000 0.330000
+map_Kd Triagon Alley/_7.bmp
+
+newmtl _
+Ka 0.000000 0.000000 0.000000
+Kd 0.709804 0.129412 0.125490
+Ks 0.330000 0.330000 0.330000
+map_Kd Triagon Alley/_.jpg
+
+newmtl _5
+Ka 0.000000 0.000000 0.000000
+Kd 0.662745 0.662745 0.662745
+Ks 0.330000 0.330000 0.330000
+map_Kd Triagon Alley/_5.bmp
+
+newmtl _3
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.643137 0.631373
+Ks 0.330000 0.330000 0.330000
+map_Kd Triagon Alley/_3.bmp
+
+newmtl _6
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.330000 0.330000 0.330000
+map_Kd Triagon Alley/_6.bmp
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
