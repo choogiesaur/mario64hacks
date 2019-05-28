@@ -1,0 +1,34 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl _2
+Ka 0.000000 0.000000 0.000000
+Kd 0.419608 0.227451 0.066667
+Ks 0.330000 0.330000 0.330000
+map_Kd Tutorial Level/_2.bmp
+
+newmtl _5
+Ka 0.000000 0.000000 0.000000
+Kd 0.423529 0.337255 0.200000
+Ks 0.330000 0.330000 0.330000
+map_Kd Tutorial Level/_5.png
+
+newmtl _
+Ka 0.000000 0.000000 0.000000
+Kd 0.796078 0.847059 0.709804
+Ks 0.330000 0.330000 0.330000
+map_Kd Tutorial Level/_.bmp
+
+newmtl _1
+Ka 0.000000 0.000000 0.000000
+Kd 0.215686 0.803922 0.007843
+Ks 0.330000 0.330000 0.330000
+map_Kd Tutorial Level/_1.bmp
+
+newmtl _4
+Ka 0.000000 0.000000 0.000000
+Kd 0.752941 0.701961 0.650980
+Ks 0.330000 0.330000 0.330000
+map_Kd Tutorial Level/_4.png
+
