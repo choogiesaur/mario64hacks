@@ -12,10 +12,10 @@ Seemingly the only change is in a single byte:
 
 ## Mario64EnhancedLevelSelectPatch.ppf
 
-My enhanced original patch that both enables the debug level select screen in Super Mario 64 and changes the stage titles. The default titles either reference the Japanese names or have graphical glitches. This for the most part fixes that.
+My enhanced original patch that both enables the debug level select screen in Super Mario 64 and modifies the stage titles. The default titles that are displayed either reference the Japanese names or have graphical glitches. This patch fixes that with the finalized English names.
 
 Apply either patch to a clean, extended NTSC version Super Mario 64 rom. Use [sm64extend found here](https://sm64hacks.com/hacktools.php "SM64 Hack Tools") to expand the rom to 64MB first.
-Upon applying the patch, the save file select screen will be replaced with the level select screen. Patch was made with the following file, processed with sm64extend:
+Upon applying the patch, the save file select screen will be replaced with the level select screen and updated names. Patch was made with the following file, processed with sm64extend:
 ```
 Super Mario 64 (U) [!].z64
 Size: 8,338,608
